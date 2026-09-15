@@ -27,7 +27,7 @@ EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
 DEFAULT_CHUNK_SIZE = 700
 DEFAULT_OVERLAP = 120
 DEFAULT_TOP_K = 8
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-120b"
 
 SUPPORTED_EXTENSIONS = [".pdf", ".docx", ".txt", ".md"]
 
